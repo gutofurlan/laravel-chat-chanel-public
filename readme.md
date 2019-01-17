@@ -7,4 +7,4 @@
 
 https://www.youtube.com/watch?v=8H50eyljqnI&list=PLt2RVDfdipgEO6CAiyn9tgM6rYx2linTC&index=1
 
-apoio https://github.com/serafimdeveloper
+- apoio de Douglas Serafim - https://github.com/serafimdeveloper
